@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestGit
 {
-    class Program
+    class Progra
     {
         static void Main(string[] args)
         {
